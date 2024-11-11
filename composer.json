@@ -1,0 +1,20 @@
+{
+    "name": "hexlet/code",
+    "description": "My first PHP project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/brain-games"
+    ],
+    "authors": [
+        {
+            "name": "BejiitaOji",
+            "email": "bah6ntowl@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
