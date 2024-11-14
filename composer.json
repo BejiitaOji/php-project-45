@@ -3,7 +3,8 @@
     "description": "My first PHP project",
     "autoload": {
         "files": [
-            "src/Cli.php"
+            "src/Cli.php",
+            "src/isEven.php"
         ],
         "psr-4": {
             "Hexlet\\Code\\": "src/"
