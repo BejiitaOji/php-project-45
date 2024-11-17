@@ -8,7 +8,8 @@
             "src/Games/isEven.php",
             "src/Games/Calculator.php",
             "src/Games/GSD.php",
-            "src/Games/Progression.php"
+            "src/Games/Progression.php",
+            "src/Games/isPrime.php"
         ],
         "psr-4": {
             "Hexlet\\Code\\": "src/"
@@ -19,7 +20,8 @@
         "bin/brain-even",
         "bin/brain-calc",
         "bin/brain-gsd",
-        "bin/brain-progression"
+        "bin/brain-progression",
+        "bin/brain-prime"
 
     ],
     "authors": [
