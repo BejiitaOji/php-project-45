@@ -13,6 +13,9 @@ brain-calc:
 brain-gsd:
 	./bin/brain-gsd
 
+brain-progression:
+	./bin/brain-progression
+
 validate:
 	composer validate
 
